@@ -48,12 +48,6 @@ body {
     padding: 5px;
 }
 
-/*mobile styles*/
-@media (max-width: 768px) {
-    .navbar {
-      display: none;
-    }
-  }
 
 
 /*****************************************************
